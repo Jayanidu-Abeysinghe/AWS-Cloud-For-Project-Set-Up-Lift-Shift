@@ -1,3 +1,6 @@
+Structure of the project
+
+Structure.webp
 
 # ☁️ AWS Cloud Lift & Shift Project
 
