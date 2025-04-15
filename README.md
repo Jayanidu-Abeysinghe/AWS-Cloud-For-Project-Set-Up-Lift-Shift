@@ -1,4 +1,7 @@
-Structure of the project
+### 🧱 Project Architecture
+
+![Architecture Diagram](Structure.webp)
+
 
 Structure.webp
 
